@@ -60,4 +60,4 @@
 
 ## 作成者
 [Samurai-Human-Go](https://samurai-human-go.com/%e9%81%8b%e5%96%b6%e8%80%85%e6%83%85%e5%a0%b1/)
-- [ブログ記事: ](https://samurai-human-go.com)
+- [ブログ記事: 【Python】GoPro動画に「撮影日時」を後付けで焼き込む自動化スクリプトを作った話（FFmpeg）](https://samurai-human-go.com/python-ffmpeg-gopro-timestamp/)
